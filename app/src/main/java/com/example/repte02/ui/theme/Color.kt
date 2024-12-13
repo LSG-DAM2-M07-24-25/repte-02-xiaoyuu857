@@ -1,4 +1,4 @@
-package com.adriajunyu.hangman.ui.theme
+package com.example.repte02.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
